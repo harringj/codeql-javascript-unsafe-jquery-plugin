@@ -7,3 +7,5 @@ You will be able to complete each step by writing and committing CodeQL queries 
 Let's start right away, by going to the first issue! 
 
 This repository is licensed under [MIT](../LICENSE) (c) 2020 GitHub, Inc.
+
+https://github.com/githubsatelliteworkshops/codeql/releases/download/v1.0/esbena_bootstrap-pre-27047_javascript.zip
